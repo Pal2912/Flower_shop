@@ -16,7 +16,7 @@ No installation is required for this project. Simply clone or download the repos
 
 If you have any questions or suggestions, feel free to reach out at 2743aggarwalpalak@example.com.
 
-[check outt]( https://pal2912.github.io/Flower_shop.github.io/)
+[check outt](https://pal2912.github.io/Flower_shop/)
 
 
 
